@@ -1,23 +1,21 @@
-## Welcome to GitHub Pages
+## 欢迎来到DA65编程支教实践的主页
 
-You can use the [editor on GitHub](https://github.com/Cotsinger/Cotsinger.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+本次实践所需的所有链接和数据，将发布在此主页上。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 课程安排
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+本次课程共10个课时，需完成3项任务
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+任务一：学习程序语言基础知识
+任务二：完成三次课后作业
+任务三：完成“别踩白块”游戏的交互部分
 
-- Bulleted
-- List
-
+教材
+学生作业、表现纳入评价。可以进行考核奖励。
 1. Numbered
 2. List
 

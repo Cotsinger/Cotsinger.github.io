@@ -4,8 +4,7 @@ You can use the [editor on GitHub](https://github.com/Cotsinger/Cotsinger.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-日程安排
+###日程安排
 7.14
 一开始活跃气氛，自我介绍
 基本语法十几页PPT（。。。），多互动一下；根据上课情况，如果掌握较好，继续；如果不够好，判据【基本结构会使用而且绝对用不错】——PlanB【回到最初的，从基础语法开始讲，直接上函数，结构，枚举，二维数组】
